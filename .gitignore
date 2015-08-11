@@ -1,4 +1,11 @@
+Homestead.yaml
+_ide_helper.php
+/bootstrap/compiled.php
 /vendor
 /node_modules
-Homestead.yaml
+.env.*.php
+.env.php
 .env
+.idea/*
+/public/build/*
+/resources/assets/bower
