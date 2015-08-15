@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Auth;
 
 use App\Models\User;
+use Illuminate\Support\Facades\Auth;
 use Mews\Captcha\Facades\Captcha;
 use Validator;
 use Illuminate\Http\Request;
